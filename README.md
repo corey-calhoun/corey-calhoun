@@ -2,7 +2,6 @@
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=corey-calhoun&color=FAC151)][1]
 [![JavaScript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/corey-calhoun)
-<!-- [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][3] -->
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][4]
 [![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][7]
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white
@@ -14,8 +13,6 @@ Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion 
 
 <!-- Web: [calhouncorey.me][1] <br/> -->
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)][2]<br/>
-<!-- [![blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white
-)][3]<br/> -->
 [![youtube-gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?logo=youtube-gaming&logoColor=white&logoWidth=20)][7]<br/>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)][8]<br/>
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white
