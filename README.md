@@ -94,7 +94,7 @@ You can support me and [buy me a ☕][5], if you want. 🙏🏻
 [8]: instagram.com/chilltrashpanda
 [9]: youtube.com/c/TheFighterAndTheKid
 [10]: youtube.com/c/Fireship
-[11]: [open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=ae0b0cfbee1a4cee](https://open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=c9acee261fca41a6)
+[11]: https://open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=c9acee261fca41a6
 
 
 <!--END_SECTION:external_links>
