@@ -12,7 +12,7 @@ Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion 
 <!-- Web: [calhouncorey.me][1] <br/> -->
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)][2]<br/>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)][7]<br/>
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)][8]
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)][8]<br/>
 [![Mastodon](https://img.shields.io/mastodon/follow/109680513293941284?domain=https%3A%2F%2Finfosec.exchange&style=social)][9]
 
 
