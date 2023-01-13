@@ -3,7 +3,7 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=corey-calhoun&color=FAC151)][1]
 [![JavaScript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/corey-calhoun)
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][4]
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)][11]
+[![spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)][8]
 
 Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion for creating digtal products and solving problems. I am also a big fan of the latest tech and I am always looking to learn new things. 
 
@@ -11,7 +11,7 @@ Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion 
 
 <!-- Web: [calhouncorey.me][1] <br/> -->
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)][2]<br/>
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)][8]<br/>
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)][7]<br/>
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)][8]
 
 ## 👉🏻👉🏻 Sign up for my [📧][4]
@@ -72,10 +72,10 @@ You can support me and [buy me a ☕][5], if you want. 🙏🏻
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/corey-calhoun/corey-calhoun">
+<a href="https://github.com/corey-calhoun">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corey-calhoun&hide=java,html&title_color=000000&text_color=000000" />
 </a>
-<a href="https://github.com/corey-calhoun/corey-calhoun">
+<a href="https://github.com/corey-calhoun">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=corey-calhoun&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Corey Calhoun's GitHub Stats" />
 </a>
 
@@ -88,8 +88,8 @@ You can support me and [buy me a ☕][5], if you want. 🙏🏻
 [4]: https://newsletter.myportfolio-3e28c.web.app?utm_source=
 [5]: https://www.buymeacoffee.com/calhouncorey
 [6]: https://dev.to/trashpanda
-[8]: instagram.com/chilltrashpanda
-[11]: https://open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=c9acee261fca41a6
+[7]: instagram.com/chilltrashpanda
+[8]: https://open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=c9acee261fca41a6
 
 
 <!--END_SECTION:external_links>
