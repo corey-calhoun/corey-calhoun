@@ -3,7 +3,6 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=corey-calhoun&color=FAC151)][1]
 [![JavaScript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/corey-calhoun)
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][4]
-[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][7]
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)][11]
 
 Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion for creating digtal products and solving problems. I am also a big fan of the latest tech and I am always looking to learn new things. 
@@ -89,10 +88,7 @@ You can support me and [buy me a ☕][5], if you want. 🙏🏻
 [4]: https://newsletter.myportfolio-3e28c.web.app?utm_source=
 [5]: https://www.buymeacoffee.com/calhouncorey
 [6]: https://dev.to/trashpanda
-[7]: youtube.com/channel/UCVMKNvi1SC-GWAEILdkF1XQ
 [8]: instagram.com/chilltrashpanda
-[9]: youtube.com/c/TheFighterAndTheKid
-[10]: youtube.com/c/Fireship
 [11]: https://open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=c9acee261fca41a6
 
 
