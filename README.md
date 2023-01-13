@@ -13,6 +13,8 @@ Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)][2]<br/>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)][7]<br/>
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)][8]
+<a rel="me" href="https://infosec.exchange/@tr4shp4nd4">Mastodon</a>
+
 
 ## 👉🏻👉🏻 Sign up for my [📧][4]
 
