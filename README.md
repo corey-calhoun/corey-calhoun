@@ -13,7 +13,7 @@ Hey 👋🏻, I'm Corey! I am a self-taught full-stack developer with a passion 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)][2]<br/>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)][7]<br/>
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)][8]
-<a rel="me" href="https://infosec.exchange/@tr4shp4nd4">Mastodon</a>
+[![Mastodon](https://img.shields.io/mastodon/follow/109680513293941284?domain=https%3A%2F%2Finfosec.exchange&style=social)][9]
 
 
 ## 👉🏻👉🏻 Sign up for my [📧][4]
@@ -92,6 +92,8 @@ You can support me and [buy me a ☕][5], if you want. 🙏🏻
 [6]: https://dev.to/trashpanda
 [7]: instagram.com/chilltrashpanda
 [8]: https://open.spotify.com/user/m72dfz2t2mi9g65dq1vio8msx?si=c9acee261fca41a6
+[9]: https://infosec.exchange/@tr4shp4nd4
+
 
 
 <!--END_SECTION:external_links>
