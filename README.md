@@ -2,8 +2,6 @@
 
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=corey-calhoun&color=FAC151)][1]
-[![JavaScript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/corey-calhoun)
-[![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][4]
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)][8]
 
 Hey 👋🏻, I'm Corey! I am a cybersecurity professional with a passion for creating digtal products and solving problems. I am also a big fan of the latest tech and I am always looking to learn new things. 
