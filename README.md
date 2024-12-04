@@ -1,4 +1,4 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=489934" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cwcalhoun1s.png" alt="Image Badge" />
 
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=corey-calhoun&color=FAC151)][1]
